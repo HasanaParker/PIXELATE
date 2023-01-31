@@ -1,2 +1,2 @@
 # HasanaParker.github.io
-![background]{background.gif)
+![background](background.gif)
