@@ -1,6 +1,14 @@
 # Project Description 🦄
 ![background](background.gif)
+
+### What is the overall goal?
+The goal of my project is to take an audio file( or just take the lyrics directly) and choose random lyrics from the song to generate an image to then turn that image into a piece of pixel art.
+
+### Project Overview
 Everyone loves to listen to music. Music is a beautiful thing because like a story or a painting everyone walks away with a different intrepretation. I wonder though what would be the interpretation of a machine. The goal of this project is to give the neural network a song and having it tokenize the audio to text, then taking that text and geenrating a pixelated version of that image. 
+
+### What is Pixel art?
+
 
 ## Project Goals
 1. Transcribe Audio to Lyrics.
