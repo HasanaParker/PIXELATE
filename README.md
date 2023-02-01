@@ -8,7 +8,9 @@ The goal of my project is to take an audio file( or just take the lyrics directl
 Everyone loves to listen to music. Music is a beautiful thing because like a story or a painting everyone walks away with a different intrepretation. I wonder though what would be the interpretation of a machine. The goal of this project is to give the neural network a song and having it tokenize the audio to text, then taking that text and geenrating a pixelated version of that image. 
 
 ### What is Pixel art?
+Pixel art is a cool and unique art style. It is very simple, with each picel block working together to create a final piece of art.
 
+![1](img1.png) ![2](img2.png)
 
 ## Project Goals
 1. Transcribe Audio to Lyrics.
