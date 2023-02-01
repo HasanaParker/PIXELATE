@@ -19,7 +19,10 @@ Pixel art is a cool and unique art style. It is very simple, with each picel blo
 ## Project Goals
 1. Transcribe Audio to Lyrics.
 2. Randomly select lyrics. Generate image based off of the randomly selected lyrics.
-3.  Pixelate that image
+3. Collect training data 
+4. Pixelate that image
+
+Side note: I also had an idea of feeding a neural network a whole bunch of free novel data and then training it to write a short story or poem about any song it is given. This was my inspo https://openai.com/blog/better-language-models/.
 
 ## Works Cited
 “Better Language Models and Their Implications.” OpenAI, 14 Feb. 2019, https://openai.com/blog/better-language-models/.
