@@ -30,7 +30,7 @@ Side note: I also had an idea of feeding a neural network a whole bunch of free 
 ## Possible Ethical Implications
 Some possible ethical implications are songs that have explicit lyrics or make use of lyrics that have slurs in them. The ethical implication comes into play with the kind of images that may be generated.
 
-### Project Mmebers
+### Project Members
 1. Kambe
 2. Aldo 
 3. Meelod 
