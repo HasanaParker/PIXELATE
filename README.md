@@ -27,7 +27,7 @@ Pixel art is a cool and unique art style. It is very simple, with each picel blo
 
 Side note: I also had an idea of feeding a neural network a whole bunch of free novel data and then training it to write a short story or poem about any song it is given. This was my inspo https://openai.com/blog/better-language-models/.
 
-## Possible Ethical Implications
+## Ethical Sweep
 Some possible ethical implications are songs that have explicit lyrics or make use of lyrics that have slurs in them. The ethical implication comes into play with the kind of images that may be generated.
 
 ### Project Members
