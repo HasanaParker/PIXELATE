@@ -43,15 +43,15 @@ Some misinterpretations of the results could include slang words in lyrics, whic
 4. Hasana 
 
 ## Related Works
-This research article focuses on giving us an overview on the relation between artificial intelligence and art in our current world. It also brings up some ethical implications that come with using AI in art, such as questioning credibility and whether we should be using technology to make art[1]. 
-This article discusses how a team worked to convert Audio to images[2].
-In this paper, it discusses the practical and ethical implications of using AI to create forms of art. Some of the issues it discusses includes plagiarism and includes various examples of art works that were created with AI[3].
-In this study, it discusses the potential issues with generating pixel art characters with AI. Some of those issues involve when the character is facing a certain direction and the blurriness of the image itself[4].
-This article is an interview with Boris Dayma, the engineer behing Craiyon, formerly known as DALL-E Mini. It discusses his experience recreating DALL-E, as well as how the internet has decided to embrace his project (specifically for use with memes)[5].
-This article discusses how to create our own text to image model. It discusses what Dall-E and Imagen are. It also talks through specific deep learning concepts and how they will work to accomplish our task[6].
-This article takes you step by step on how to create an image in the style of pixel art. Gives background onto why we should use a CycleGAN for our project. Also gives background onto how to find data to help train our model[7].
-This is an article about Point-E, a project by OpenAI which is like DALL-E except for 3d models. It goes over the training methods used for Point-E, which is currently available on GitHub & Hugging Face[8].
-This research article focuses on how artificial neural networks have been used in visual arts from the past eight years. The article focuses on how different neural networks have been used to work with visual art all the way from classification to generation and evaluation[9].
+This research article focuses on giving us an overview on the relation between artificial intelligence and art in our current world. It also brings up some ethical implications that come with using AI in art, such as questioning credibility and whether we should be using technology to make art [1]. 
+This article discusses how a team worked to convert Audio to images [2].
+In this paper, it discusses the practical and ethical implications of using AI to create forms of art. Some of the issues it discusses includes plagiarism and includes various examples of art works that were created with AI [3].
+In this study, it discusses the potential issues with generating pixel art characters with AI. Some of those issues involve when the character is facing a certain direction and the blurriness of the image itself [4].
+This article is an interview with Boris Dayma, the engineer behing Craiyon, formerly known as DALL-E Mini. It discusses his experience recreating DALL-E, as well as how the internet has decided to embrace his project (specifically for use with memes) [5].
+This article discusses how to create our own text to image model. It discusses what Dall-E and Imagen are. It also talks through specific deep learning concepts and how they will work to accomplish our task [6].
+This article takes you step by step on how to create an image in the style of pixel art. Gives background onto why we should use a CycleGAN for our project. Also gives background onto how to find data to help train our model [7].
+This is an article about Point-E, a project by OpenAI which is like DALL-E except for 3d models. It goes over the training methods used for Point-E, which is currently available on GitHub & Hugging Face [8].
+This research article focuses on how artificial neural networks have been used in visual arts from the past eight years. The article focuses on how different neural networks have been used to work with visual art all the way from classification to generation and evaluation [9].
 
 
 
