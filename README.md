@@ -28,7 +28,13 @@ Pixel art is a cool and unique art style. It is very simple, with each picel blo
 Side note: I also had an idea of feeding a neural network a whole bunch of free novel data and then training it to write a short story or poem about any song it is given. This was my inspo https://openai.com/blog/better-language-models/.
 
 ## Ethical Sweep
-Some possible ethical implications are songs that have explicit lyrics or make use of lyrics that have slurs in them. The ethical implication comes into play with the kind of images that may be generated.
+Why Pixelate? It will be a fun and cool feature to add to any streaming site as well as a nice feature for people that are deaf and hard of hearing. But there are many ethical implications when it comes to how art is being utilized by AI.
+A non-ML approach alternative to our study could include where certain keywords and phrases can show pre-made images. For example, a key word regarding ducks could show a pre-created image of a duck. While this could prove to be a valid alternative, the issue would rely on not making the image-creation process dynamic and tailored for the lyrics. For example, the song lyric could talk about ducks in space, but since no image of that exists, it would resort to using the next closest image.
+
+Our process to handle appeals/ mistakes will take each claim seriously and address any parties that could have been harmed due to anything we have created. Our team is very diverse not only in race, but in background, and skill set helping us to get a variety of inputs to avoid as much error as possible. Our data (i.e. song lyrics) is valid for its intended use. Some bias in our data could be what image corresponds to. We hope to minimize bias in our data in model by looking through the dataset we decide to use and ensuring that there are not images that push a certain narrative or stereotypes. We can audit our data to ensure that the lyrics that we are using to create the pixelated images are clean so that we avoid situations where the AI creates graphical images. We can audit our code so that we have checkers in place so that for any graphical and unclean lyrics are not used when creating the images.
+
+Some misinterpretations of the results could include slang words in lyrics, which had another meaning that what it was intended to mean in the song. Thereby, this could cause the created pixelate image to be something not related to the song lyrics. We might impinge individuals' privacy or anonymity if we happen to use a data set in which people are placed without their permission.
+
 
 ### Project Members
 1. Kambe
