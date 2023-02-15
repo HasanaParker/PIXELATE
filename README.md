@@ -13,6 +13,16 @@ For a more in depth reading of their approach read https://inikolaeva.medium.com
 - Choosing random lyrics from a song and creating image based off of that.
 - OR having the NN listen to the entire song and then generating an image.
 
+ ## Introduction
+Introductory Paragraph: We are team Pixelate! Our goal is to have a neural network generate an image based off of text given in the form of lyrics. Then taking that image and pixelating it.We want to replicate the cognitive process of making images in our mind when we listen to music. We want to develop a story that best resembles the song. 
+
+Background Paragraph: All the process we are trying to make use of to accomplish our goal have been used in the past. Various steps involved. Need to decide whether we will use audio or lyrics for this project.
+
+Transition Paragraph: Some insight that we applied to overcome the shortcomings of other approaches include
+
+Details Paragraph: We have to overcome challenges such as ...
+
+Assessment Paragraph: Overall we were successful in accomplishing our goal…
 
 ### What is Pixel art?
 Pixel art is a cool and unique art style. It is very simple, with each picel block working together to create a final piece of art.
