@@ -42,7 +42,7 @@ Our project is more focused on the current trend of using AI for art generation.
 ## **2. Our Approach**
 Our project will have two separate steps. First we will be generating an image based on a text prompt. This is similar to the process of Dall-E and the numerous programs that have come after (ex: Craiyon, a free version of Dall-E created by engineer Boris Dayma [5]). We will also be using the inspiration of other models, such as Dall-E 2 and Imagen, and tutorials in order to replicate the text-to-image generation process. [6]. Our goal is not only to replicate the process through this step but also to make it more efficient and implement pixelation based on music lyrics. In our second step we will be pixelating our generated image, transforming it into pixel art. Programs to pixelate images have been around for years, with many popular programs using CycleGAN [7]. Still, there can be many issues with generating pixel art, specifically with blurriness of images and sprite generation for pixelated characters [4].
 
-![Gans](cycle gan.png)
+![cg](cg.png)
 Image Source:
 https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572
 
@@ -50,7 +50,7 @@ https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1
 ### **2.1 The Data**
 For our project there will be two things we have to train the neural network one, generating images from text and converting images to pixelated art images. For this we must have distinct data sets for each separate goal. Our data set for image generation based on text would consist of a host of labeled images. Our data set for image-image generation would have to consists of unpaired data in order to facilitate the neural networks learning on how to turn an image into a pixelated version of itself. (Need to expand on this more)
 
-![unpaired Data](unpaired data.png)
+![ud](ud.png)
 Image Source:
 https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572
 
