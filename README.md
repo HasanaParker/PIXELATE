@@ -1,7 +1,6 @@
-# Project Description 🦄
+# Pixelate! Project Description 🦄
+
 ![background](background.gif)
-
-
 
 ## **1. Introduction**
 We are team Pixelate! Our goal is to have a neural network generate an image based off of text given in the form of lyrics. Then taking that image and pixelating it. We want to replicate the cognitive process of making images in our mind when we listen to music. Everyone loves to listen to music. Music is a beautiful thing because like a story or a painting everyone walks away with a different interpretation but how would a machine interpret the music and how can the machines' interpretation help to give imagery of a sound that some people may not have the ability to listen to.
@@ -12,7 +11,7 @@ Our Team:
 3. Meelod 
 4. Hasana 
 
-Project Goals
+Project Goals:
 1. Transcribe Audio to Lyrics.
 2. Randomly select lyrics. Generate image based off of the randomly selected lyrics.
 3. Collect training data 
@@ -57,7 +56,9 @@ https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1
 
 ## **3.Ethics and Our Why?**
 Why Pixelate? Pixelate will be a fun and cool feature to add to any streaming site as well as a nice feature for people that are deaf and hard of hearing. But there are many ethical implications when it comes to how art is being utilized by AI. A non-ML approach alternative to our project could include where certain keywords and phrases can show pre-made images. For example, a key word regarding ducks could show a pre-created image of a duck. While this could prove to be a valid alternative, the issue would rely on not making the image-creation process dynamic and tailored for the lyrics. For example, the song lyric could talk about ducks in space, but since no image of that exists, it would resort to using the next closest image.
+
 Our process to handle appeals/ mistakes will take each claim seriously and address any parties that could have been harmed due to anything we have created. Our team is very diverse not only in race, but in background, and skill set helping us to get a variety of inputs to avoid as much error as possible. Our data (i.e. song lyrics) is valid for its intended use. Some bias in our data could be what image corresponds to. We hope to minimize bias in our data in model by looking through the dataset we decide to use and ensuring that there are no images that push a certain narrative or stereotypes. We can audit our data to ensure that the lyrics that we are using to create the pixelated images are clean so that we avoid situations where the AI creates graphical images. We can audit our code so that we have checkers in place so that for any graphical and unclean lyrics are not used when creating the images.
+
 Some misinterpretations of the results could include slang words in lyrics, which had another meaning that what it was intended to mean in the song. Thereby, this could cause the created pixelate image to be something not related to the song lyrics. We might impinge individuals' privacy or anonymity if we happen to use a data set in which people are placed without their permission.
 
 
