@@ -27,7 +27,7 @@ Image Source:
 https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572
 
 ### **1.2 The Task At Hand?**
-The applications of artificial intelligence (AI) within the arts is not a new concept. Artificial neural networks, that have previously been used in optimization, prediction analysis, and natural language processing, are being used to create various forms of art: visually or audibly. In particular to visual arts, past use cases for these neural networks have involved image recognition of certain elements or entire artwork, classification based on key aspects, prediction analysis on quality or aesthetic, and style transfer from one visual artwork to another (Santos et al.). Further developments within artificial intelligence in visual arts have allowed artificial neural networks to reconstruct their own unique images through training and learning from examples of past artworks (Artdex). For our project we would like to train a neural network to generate an image based off of a wide selection of images that it will be trained on, and then to have that image be converted into the style of pixel art.
+The applications of artificial intelligence (AI) within the arts is not a new concept. Artificial neural networks, that have previously been used in optimization, prediction analysis, and natural language processing, are being used to create various forms of art: visually or audibly. In particular to visual arts, past use cases for these neural networks have involved image recognition of certain elements or entire artwork, classification based on key aspects, prediction analysis on quality or aesthetic, and style transfer from one visual artwork to another [9]. Further developments within artificial intelligence in visual arts have allowed artificial neural networks to reconstruct their own unique images through training and learning from examples of past artworks [1]. For our project we would like to train a neural network to generate an image based off of a wide selection of images that it will be trained on, and then to have that image be converted into the style of pixel art.
 
 ![3](img3.png) 
 ![4](img4.png)
@@ -35,7 +35,7 @@ Image Source:
 https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572
 
 ### **1.3 How Do We Differ?**
-Our project is more focused on the current trend of using AI for art generation. Researchers like Eva Cetinic and her colleagues explore the current developing relationship between artificial intelligence and art in our modern world [1]. Specifically, they question some ethical implications that come with the process of AI art generation such as asking if we should even use AI for the art generation, what the creative process behind AI art is, and the credibility and copyright issues that come along the process of developing art. Furthermore, Chen and colleagues continue on to explore the benefits and complexities behind artists using artificial intelligence as a tool. They mention that while artists may be able to alleviate the laborious process of artistic creation to make room to maximize their creative expressions, AI art may lead to further issues in the future including plagiarism  [3]. Therefore, our objective will be to analyze these implications through our project and extend the applications of artificial intelligence in order to pixelate lyrics of songs.
+Our project is more focused on the current trend of using AI for art generation. Researchers like Eva Cetinic and her colleagues explore the current developing relationship between artificial intelligence and art in our modern world [2]. Specifically, they question some ethical implications that come with the process of AI art generation such as asking if we should even use AI for the art generation, what the creative process behind AI art is, and the credibility and copyright issues that come along the process of developing art. Furthermore, Chen and colleagues continue on to explore the benefits and complexities behind artists using artificial intelligence as a tool. They mention that while artists may be able to alleviate the laborious process of artistic creation to make room to maximize their creative expressions, AI art may lead to further issues in the future including plagiarism  [3]. Therefore, our objective will be to analyze these implications through our project and extend the applications of artificial intelligence in order to pixelate lyrics of songs.
 
 
 ## **2. Our Approach**
@@ -63,9 +63,9 @@ Some misinterpretations of the results could include slang words in lyrics, whic
 
 
 ## **4.   References**
-[1] Cetinic, Eva, and James She. “Understanding and Creating Art with AI: Review and Outlook.” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 18, no. 2, Feb. 2022, p. 66:1-66:22. May 2022, https://doi.org/10.1145/3475799.
+[1] Artificial Neural Networks and Paintings: What Is Neural Art?” ARTDEX, 14 May 2021, https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/. 
 
-[2] Chen, Tony. “Seeing Is Believing: Converting Audio Data into Images.” Medium, 23 Dec. 2020, https://towardsdatascience.com/seeing-is-believing-converting-audio-data-into-images-5ed1a2ca6647.
+[2] Cetinic, Eva, and James She. “Understanding and Creating Art with AI: Review and Outlook.” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 18, no. 2, Feb. 2022, p. 66:1-66:22. May 2022, https://doi.org/10.1145/3475799.
 
 [3] Chen, Weiwen, et al. “A Methodological Approach to Create Interactive Art in Artificial Intelligence.” HCI International 2020 – Late Breaking Papers: Cognition, Learning and Games, edited by Constantine Stephanidis et al., Springer International Publishing, 2020, pp. 13–31. Springer Link, https://doi.org/10.1007/978-3-030-60128-7_2.
 
