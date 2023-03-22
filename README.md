@@ -61,8 +61,49 @@ Our process to handle appeals/ mistakes will take each claim seriously and addre
 
 Some misinterpretations of the results could include slang words in lyrics, which had another meaning that what it was intended to mean in the song. Thereby, this could cause the created pixelate image to be something not related to the song lyrics. We might impinge individuals' privacy or anonymity if we happen to use a data set in which people are placed without their permission
 
+## **4.   Methodology**
+There are two separate processes that we need to train our neural network to do. First text-image and then image-image. We will first train our neural network to transform text into an image. We will do that by using diffusion. 
 
-## **4.   References**
+## **4.1 Text-Image Section**
+
+What is diffusion?
+
+Diffusion models are a type of generative models that can create new data using the training data. The process through which it functions is that it begins by eradicating the training data using additional noise. It then proceeds to reverse the precedent procedure, which allows it to recover the data and learn to generate those images. The diffusion model applies this process to random parts in the images, and inputs like text can help improve the process.
+
+Why diffusion?
+
+In our project, we will use diffusion when transforming our text input into images. Diffusion is our preferred method due to its versatility in handling different types of inputs, which we will use song lyrics in our project. With the text input, we will generate more realistic pictures in a stable manner, and our result will give us images to pixelate for our next step.
+
+Our Dataset
+
+For our dataset, we will pull a sample of popular songs and use COCO (Common Objects in Context) to test our model. COCO is an object detection and captioning dataset that identifies objects in images and will help us in training our diffusion model to ensure it is as accurate as possible with creating the images.. However, the limitation to using COCO is that it only works for certain objects and not emotionally charged vocabulary. To train our model and test for emotions, we also will use ImageNet, which is an image dataset with 14 million images that are human-annotated.
+
+Software we are using
+
+For our software we will use Visual Studio Code and code in PyTorch.
+
+## **4.2 Image-Image Section**
+This process was made with the help of https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572
+
+For the second part of our project the image-image translation we will use Cycle-GANS (Generative Adversarial Network) Neural style transfer, using machine learning models to solve image to image translation.
+
+What is a GAN?
+The GAN architecture has two models: a generator that creates realistic-looking images, and a discriminator that distinguishes between real and fake images. The discriminator is trained directly, while the generator is updated through the discriminator. This creates an adversarial process where the generator tries to trick the discriminator, while the discriminator tries to correctly identify fake images. In this way, both models are trained at the same time.
+
+Why Cycle GANS?
+CycleGAN is a type of model that can train image-to-image translation models without paired examples, meaning it can convert images from one domain to another without requiring matching examples. This enables the model to translate images back and forth between different domains. The models undergo unsupervised training by using a set of images from both the source and target domains, which don't necessarily have any direct connection or relationship between them.
+
+Our Dataset
+For our data we will use a dataset prepared by the computer scientist in the article 
+https://drive.google.com/file/d/1qDXB5g0Cb0VwISXwnfeiehPHuTgxWhdG/view. This data set consists of paired images
+Link with 22 image datasets: https://imerit.net/blog/22-free-image-datasets-for-computer-vision-all-pbm/
+https://www.image-net.org/about.php
+
+Software we are using
+We will use PyTorch as a neural network framework, PyCharm IDE for a training model with GPU. We will also use jupyter notebook for analysis and showing results 
+
+
+## **5.   References**
 [1] Artificial Neural Networks and Paintings: What Is Neural Art?” ARTDEX, 14 May 2021, https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/. 
 
 [2] Cetinic, Eva, and James She. “Understanding and Creating Art with AI: Review and Outlook.” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 18, no. 2, Feb. 2022, p. 66:1-66:22. May 2022, https://doi.org/10.1145/3475799.
