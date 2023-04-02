@@ -103,7 +103,7 @@ We will be using a data set from an article we found that contains images of car
 
 While the software for image generation and image pixelation already exists separately, our project’s goal is to combine both of these processes to output an AI generated pixel image.
 
-## **5.   References**
+## **6.   References**
 [1] Artificial Neural Networks and Paintings: What Is Neural Art?” ARTDEX, 14 May 2021, https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/. 
 
 [2] Cetinic, Eva, and James She. “Understanding and Creating Art with AI: Review and Outlook.” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 18, no. 2, Feb. 2022, p. 66:1-66:22. May 2022, https://doi.org/10.1145/3475799.
