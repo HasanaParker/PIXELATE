@@ -98,6 +98,10 @@ https://www.image-net.org/about.php
 #### Software we are using
 We will use PyTorch as a neural network framework, PyCharm IDE for a training model with GPU. We will also use jupyter notebook for analysis and showing results 
 
+## **5.   Discussion**
+We will be using a data set from an article we found that contains images of cartoon characters with white backgrounds for domain A. As well as images of pixelated character characters with white backgrounds for domain B. We trained 2 neural networks, the first was for text-image generation which was pretrained, and the second is an image-image neural network. We will be implementing two types of networks, [name]  for the image generation and [name] for the image pixelation.
+
+While the software for image generation and image pixelation already exists separately, our project’s goal is to combine both of these processes to output an AI generated pixel image.
 
 ## **5.   References**
 [1] Artificial Neural Networks and Paintings: What Is Neural Art?” ARTDEX, 14 May 2021, https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/. 
