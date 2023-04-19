@@ -103,7 +103,12 @@ We will be using a data set from an article we found that contains images of car
 
 While the software for image generation and image pixelation already exists separately, our project’s goal is to combine both of these processes to output an AI generated pixel image.
 
-## **6.   References**
+## **6.   Reflections**
+Throughout our project, most of our time was spent researching different methods, learning more about the various techniques in translating the song lyrics to images, then pixelating those images: text to image then image to image. Given the opportunity to work on this next time, we would spend less time researching the many different neural networks.
+
+Future work can be done to implement features that can produce several images per second of the song lyrics and play it out as a sequence on  video—similar to a natural music video. The idea is that each subsequent image is a slight change from the previous so that it appears to be a single video playing in linear time.
+
+## **7.   References**
 [1] Artificial Neural Networks and Paintings: What Is Neural Art?” ARTDEX, 14 May 2021, https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/. 
 
 [2] Cetinic, Eva, and James She. “Understanding and Creating Art with AI: Review and Outlook.” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 18, no. 2, Feb. 2022, p. 66:1-66:22. May 2022, https://doi.org/10.1145/3475799.
