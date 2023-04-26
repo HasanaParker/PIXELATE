@@ -7,9 +7,9 @@ We are Team Pixelate! Our goal is to have a neural network generate an image bas
 
 Our Team:
 1. Kambe
-2. Aldo 
+2. Aldo
 3. Meelod 
-4. Hasana 
+4. Hasana
 
 Project Goals:
 1. Transcribe Audio to Lyrics.
@@ -118,7 +118,7 @@ Future work can be done to implement features that can produce several images pe
 
 [5] How the Author of DALL-E Mini Created the Ultimate Meme Maker — and a New Era for AI. https://www.inverse.com/innovation/dall-e-mini-creator. Accessed 14 Feb. 2023.
 
-[6] “MinImagen - Build Your Own Imagen Text-to-Image Model.” News, Tutorials, AI Research, 17 Aug. 2022, https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/.
+[6] “MinImagen - Build Your Own Imagen Text-to-Image Model.” News, Tutorials, AI Research, 17 Aug. 2022, (https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/).
 
 [7] Nikolaeva, Irina. “Make Pixel Art in Seconds with Machine Learning.” Medium, 22 Sept. 2021, https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572.
 
