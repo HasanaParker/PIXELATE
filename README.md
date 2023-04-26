@@ -108,20 +108,20 @@ Throughout our project, most of our time was spent researching different methods
 Future work can be done to implement features that can produce several images per second of the song lyrics and play it out as a sequence on video—similar to a natural music video. The idea is that each subsequent image is a slight change from the previous so that it appears to be a single video playing in linear time.
 
 ## **7. References**
-[1] Artificial Neural Networks and Paintings: What Is Neural Art?” ARTDEX, 14 May 2021, https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/. 
+[1] Artificial Neural Networks and Paintings: What Is Neural Art?” ARTDEX, 14 May 2021, [https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/](https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/). 
 
-[2] Cetinic, Eva, and James She. “Understanding and Creating Art with AI: Review and Outlook.” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 18, no. 2, Feb. 2022, p. 66:1-66:22. May 2022, https://doi.org/10.1145/3475799.
+[2] Cetinic, Eva, and James She. “Understanding and Creating Art with AI: Review and Outlook.” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 18, no. 2, Feb. 2022, p. 66:1-66:22. May 2022, [https://doi.org/10.1145/3475799](https://doi.org/10.1145/3475799).
 
-[3] Chen, Weiwen, et al. “A Methodological Approach to Create Interactive Art in Artificial Intelligence.” HCI International 2020 – Late Breaking Papers: Cognition, Learning and Games, edited by Constantine Stephanidis et al., Springer International Publishing, 2020, pp. 13–31. Springer Link, https://doi.org/10.1007/978-3-030-60128-7_2.
+[3] Chen, Weiwen, et al. “A Methodological Approach to Create Interactive Art in Artificial Intelligence.” HCI International 2020 – Late Breaking Papers: Cognition, Learning and Games, edited by Constantine Stephanidis et al., Springer International Publishing, 2020, pp. 13–31. Springer Link, [https://doi.org/10.1007/978-3-030-60128-7_2](https://doi.org/10.1007/978-3-030-60128-7_2).
 
-[4] Coutinho, Flávio, and Luiz Chaimowicz. “On the Challenges of Generating Pixel Art Character Sprites Using GANs.” Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, vol. 18, no. 1, 1, Oct. 2022, pp. 87–94. ojs.aaai.org, https://doi.org/10.1609/aiide.v18i1.21951.
+[4] Coutinho, Flávio, and Luiz Chaimowicz. “On the Challenges of Generating Pixel Art Character Sprites Using GANs.” Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, vol. 18, no. 1, 1, Oct. 2022, pp. 87–94. ojs.aaai.org, [https://doi.org/10.1609/aiide.v18i1.21951](https://doi.org/10.1609/aiide.v18i1.21951).
 
-[5] How the Author of DALL-E Mini Created the Ultimate Meme Maker — and a New Era for AI. https://www.inverse.com/innovation/dall-e-mini-creator. Accessed 14 Feb. 2023.
+[5] How the Author of DALL-E Mini Created the Ultimate Meme Maker — and a New Era for AI. [https://www.inverse.com/innovation/dall-e-mini-creator](https://www.inverse.com/innovation/dall-e-mini-creator). Accessed 14 Feb. 2023.
 
-[6] “MinImagen - Build Your Own Imagen Text-to-Image Model.” News, Tutorials, AI Research, 17 Aug. 2022, (https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/).
+[6] “MinImagen - Build Your Own Imagen Text-to-Image Model.” News, Tutorials, AI Research, 17 Aug. 2022, [https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/](https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/).
 
-[7] Nikolaeva, Irina. “Make Pixel Art in Seconds with Machine Learning.” Medium, 22 Sept. 2021, https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572.
+[7] Nikolaeva, Irina. “Make Pixel Art in Seconds with Machine Learning.” Medium, 22 Sept. 2021, [https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572](https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572).
 
-[8] “Point-E: How OpenAI’s Dall-E Successor Uses AI to Sculpt Your 3D Dreams.” BBC Science Focus Magazine, https://www.sciencefocus.com/future-technology/point-e/. Accessed 14 Feb. 2023.
+[8] “Point-E: How OpenAI’s Dall-E Successor Uses AI to Sculpt Your 3D Dreams.” BBC Science Focus Magazine, [https://www.sciencefocus.com/future-technology/point-e/](https://www.sciencefocus.com/future-technology/point-e/). Accessed 14 Feb. 2023.
 
-[9] Santos, Iria, et al. “Artificial Neural Networks and Deep Learning in the Visual Arts: A Review.” Neural Computing and Applications, vol. 33, no. 1, Jan. 2021, pp. 121–57. Springer Link, https://doi.org/10.1007/s00521-020-05565-4.
+[9] Santos, Iria, et al. “Artificial Neural Networks and Deep Learning in the Visual Arts: A Review.” Neural Computing and Applications, vol. 33, no. 1, Jan. 2021, pp. 121–57. Springer Link, [https://www.sciencefocus.com/future-technology/point-e/](https://doi.org/10.1007/s00521-020-05565-4).
