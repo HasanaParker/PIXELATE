@@ -24,8 +24,16 @@ Project Goals:
 ###   **1.1. What is Pixel Art?**
 Pixel art is a cool and unique art style. It is very simple, with each pixel block working together to create a final piece of art. It is really popular nowadays due to its aesthetics and simplicity.
 
-![1](img1.png)
-![galaxy](galaxy.png)
+<figure>
+    <img src="img1.png"
+         alt="Pixelated Island">
+</figure>
+<figure>
+    <img src="galaxy.png"
+         alt="Pixelated Galaxy">
+    <figcaption> Image Source: [https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572](https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572)</figcaption>
+</figure>
+
 Image Source:
 https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572
 
