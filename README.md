@@ -1,6 +1,9 @@
 # Pixelate! Project Description 🦄
 
-![background](background.gif)
+<figure>
+    <img src="background.gif"
+         alt="Unicorn Background Picture">
+</figure>
 
 ## **1. Introduction**
 We are Team Pixelate! Our goal is to have a neural network generate an image based on text given in the form of lyrics, then take that image and pixelate it. We want to replicate the cognitive process of making images in our minds when we listen to music. Everyone loves to listen to music. Music is a beautiful thing because, like a story or a painting, everyone walks away with a different interpretation. Yet, how would a machine interpret the music and how can the machines' interpretation help to give the imagery of a sound that some people may not have the ability to listen to?
