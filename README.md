@@ -24,6 +24,16 @@ Project Goals:
 ###   **1.1. What is Pixel Art?**
 Pixel art is a cool and unique art style. It is very simple, with each pixel block working together to create a final piece of art. It is really popular nowadays due to its aesthetics and simplicity.
     
+<figure>
+    <img src="img1.png"
+         alt="Pixelated Island">
+</figure>
+<figure>
+    <img src="galaxy.png"
+         alt="Pixelated Galaxy">
+    <figcaption> Image Source:
+https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572/figcaption
+</figure>
 
 ### **1.2 The Task At Hand?**
 The applications of artificial intelligence (AI) within the arts are not a new concept. Artificial neural networks, which have previously been used in optimization, prediction analysis, and natural language processing, are being used to create various forms of art: visually or audibly. In particular to visual arts, past use cases for these neural networks have involved image recognition of certain elements or entire artwork, classification based on key aspects, prediction analysis on quality or aesthetics, and style transfer from one visual artwork to another [9]. Further developments within artificial intelligence in visual arts have allowed artificial neural networks to reconstruct their unique images through training and learning from examples of past artworks [1]. For our project, we would like to train a neural network to generate an image based on a wide selection of images that it will be trained on, and then to have that image converted into the style of pixel art.
