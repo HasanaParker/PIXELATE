@@ -32,7 +32,7 @@ Pixel art is a cool and unique art style. It is very simple, with each pixel blo
     <img src="galaxy.png"
          alt="Pixelated Galaxy">
     <figcaption> Image Source:
-https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572/figcaption
+https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572/figcaption>
 </figure>
 
 ### **1.2 The Task At Hand?**
