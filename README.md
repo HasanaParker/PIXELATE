@@ -42,6 +42,8 @@ The applications of artificial intelligence (AI) within the arts are not a new c
     <figcaption> Image Source:
 <a href="https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572">https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572</a>
 
+</figcaption>
+</figure>
 
 ### **2.2.  How We Differ**
 Our project is more focused on the current trend of using AI for art generation. Researchers like [Eva Cetinic and her colleagues](https://dl.acm.org/doi/10.1145/3475799) explore the current developing relationship between artificial intelligence and art in our modern world [^3]. Specifically, they question some ethical implications that come with the process of AI art generation such as asking if we should even use AI for the art generation, what the creative process behind AI art is and the credibility and copyright issues that come along the process of developing art. Furthermore, Chen and colleagues continue to explore the benefits and complexities behind artists using artificial intelligence as a tool. They mention that while artists may be able to alleviate the laborious process of artistic creation to make room to maximize their creative expressions, AI art may lead to further issues in the future including plagiarism  [^4]. Therefore, our objective will be to analyze these implications through our project by taking mindful consideration of the datasets we use and extend the applications of artificial intelligence to pixelate the lyrics of songs.
@@ -55,6 +57,8 @@ Our project will have two separate steps. First, we will be generating an image 
     <figcaption> Image Source:
 <a href="https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572">https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572</a>
 
+</figcaption>
+</figure>
 
 ### **2.4. The Data**
 For our project there will be two things we have to train the NN on, generating images from text and converting images to pixelated art images. For this, we must have distinct data sets for each separate goal. Our data set for image generation based on text would consist of a host of labeled images. Our data set for image-image generation would have to consist of unpaired data in order to facilitate the NNs learning on how to turn an image into a pixelated version of itself. (Need to expand on this more)
@@ -65,6 +69,8 @@ For our project there will be two things we have to train the NN on, generating 
     <figcaption> Image Source:
 <a href="https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572">https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572</a>
 
+</figcaption>
+</figure>
 
 ## **3. Ethics and Our Why?**
 Why Pixelate? Pixelate will be a fun and cool feature to add to any streaming site as well as a nice feature for people that are deaf and hard of hearing. But there are many ethical implications when it comes to how art is being utilized by AI. A non-ML approach alternative to our project could include where certain keywords and phrases can show pre-made images. For example, a keyword regarding ducks could show a pre-created image of a duck. While this could prove to be a valid alternative, the issue would rely on not making the image-creation process dynamic and tailored for the lyrics. For example, the song lyric could talk about ducks in space, but since no image of that exists, it would resort to using the next closest image.
