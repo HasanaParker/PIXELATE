@@ -128,11 +128,11 @@ Future work can be done to implement features that can produce several images pe
 
 
 ## **7. References**
+
 [^1]: Santos, Iria, et al. “Artificial Neural Networks and Deep Learning in the Visual Arts: A Review.” Neural Computing and Applications, vol. 33, no. 1, Jan. 2021, pp. 121–57. Springer Link,[https://www.sciencefocus.com/future-technology/point-e/](https://doi.org/10.1007/s00521-020-05565-4).
 
 [^2]: Artificial Neural Networks and Paintings: What Is Neural Art?” ARTDEX, 14 May 2021, [https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/](https://www.artdex.com/ann-artificial-neural-networks-paintings-neural-art/). 
 
--2 idk
 [^3]: Cetinic, Eva, and James She. “Understanding and Creating Art with AI: Review and Outlook.” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 18, no. 2, Feb. 2022, p. 66:1-66:22. May 2022, [https://doi.org/10.1145/3475799](https://doi.org/10.1145/3475799).
 
 [^4]: Chen, Weiwen, et al. “A Methodological Approach to Create Interactive Art in Artificial Intelligence.” HCI International 2020 – Late Breaking Papers: Cognition, Learning and Games, edited by Constantine Stephanidis et al., Springer International Publishing, 2020, pp. 13–31. Springer Link, [https://doi.org/10.1007/978-3-030-60128-7_2](https://doi.org/10.1007/978-3-030-60128-7_2).
