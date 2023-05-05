@@ -33,11 +33,6 @@ The applications of artificial intelligence (AI) within the arts are not a new c
 
 <figure>
     <img src="img3.png"
-         alt="Image 3">
-</figure>
-
-<figure>
-    <img src="img3.png"
          alt="Galaxy Picture">
     <figcaption> Image Source:
 <a href="https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572">https://inikolaeva.medium.com/make-pixel-art-in-seconds-with-machine-learning-e1b1974ba572</a>
