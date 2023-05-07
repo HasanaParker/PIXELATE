@@ -111,15 +111,33 @@ Link with 22 image datasets: [https://imerit.net/blog/22-free-image-datasets-for
 We will use PyTorch as a NN framework, and PyCharm IDE for a training model with GPU. We will also use a jupyter notebook for analysis and show results.
 
 
-## **5. Discussion**
-We will be using a data set from an article we found that contains images of cartoon characters with white backgrounds for domain A. As well as images of pixelated character characters with white backgrounds for domain B. We trained 2 NN, the first was for text-image generation which was pre-trained, and the second is an image-image NN. We will be implementing two types of networks, [name]  for image generation and [name] for image pixelation.
 
-While the software for image generation and image pixelation already exists separately, our project’s goal is to combine both of these processes to output an AI-generated pixel image. Due to time constraints, we attempted to combine both of these steps by directly fine tuning a stable diffusion. By fine tuning the model, we expected our model to be able to directly take in a prompt and convert the prompt into a pixelated image. The fine tune model was expected to train for several epochs, and the loss was supposed to reduce over some time. Currently, our group was not able to get a functional fine-tune diffusion model working. We first attempted to run a hugging face tutorial, but we ran across issues regarding the inputs and pipeline differences.
+## **5. Discussion**
+Originally, our plan was to use a dataset from an article we found that contains images of cartoon characters with white backgrounds for domain A. As well as images of pixelated character characters with white backgrounds for domain B. We planned two train 2 NN’s, the first was for text-image generation which was pre-trained, and the second is an image-image NN.
+
+While the software for text-to-image generation and image pixelation already exists separately, our project’s goal was to combine both processes to output an AI-generated pixel image. Due to time constraints, our project changed plans for our methodology. We chose to focus on the stable diffusion model due to the fact that the stable diffusion model is able to generate and pixelate an image instantaneously if we fine tune the model. By fine tuning it, we expected our model to be able to directly take in a prompt and convert the prompt into a pixelated image.
+
+We first started out simple. We used a tutorial from the [Huggingface](https://huggingface.co/blog/stable_diffusion) documentation to set up and run a stable diffusion model. After a few tweaks, we got access to and ran a pre-trained diffusion model. With this pre-trained diffusion model, we were able to take any prompt and generate just about any image. An example will be demonstrated below with the prompt “a cow in space.”
+
+<figure>
+    <img src="cow_in_space1.png"
+         alt="Cow in Space First Picture">
+</figure>
+ 
+This example demonstrates the power of the pre-trained stable diffusion model alone. Through the process, we found that we could add a seed that could change our image generation results. Take the example below when we added a seed of 1024 to the same prompt from above  “a cow in space.”
+
+<figure>
+    <img src="cow_in_space2.png"
+         alt="Cow in Space Second Picture">
+</figure>
+
+This example above inspired us, because it demonstrated that it was possible to change the pixelation alone through the stable diffusion model. This led us to attempt to fine-tune the pre-trained diffusion model, so that the results will look closer to the pixelated images we aspired to have. After multiple trials, our group was not able to get a functional fine-tune diffusion model working at this time. One of the issues that we ran into was that the tutorial we used was using a different pipeline than ours, so we had to change the code from our end in order for it to work with our given inputs. Another issue we faced was that we had issues with the input image size, as the fine-tuned trained model expected different input sizes. With that said, the fine-tune model was expected to train for several epochs with our intended datasets, and we expected loss to reduce over time as we continued to train the model.
 
 ## **6. Reflections**
-Throughout our project, most of our time was spent researching different methods, learning more about the various techniques in translating the song lyrics to images, then pixelating those images: text to image then image to image. Given the opportunity to work on this next time, we would spend less time researching the many different NN. Most of us were learning NNs for the first time, so we spent time understanding how the big picture of how these NN work and how they can assist us in reaching our goal in 
+Throughout our project, most of our time was spent researching different methods, learning more about the various techniques in translating the song lyrics to images, then pixelating those images: text to image then image to image. Given the opportunity to work on this next time, we would spend less time researching the many different NN. Most of us were learning neural networks for the first time, so we spent time understanding the big picture of how these NN work and how they can assist us in our project.
 
-Future work can be done to implement features that can produce several images per second of the song lyrics and play it out as a sequence on video—similar to a natural music video. The idea is that each subsequent image is a slight change from the previous so that it appears to be a single video playing in linear time.
+In the future, we would like to continue expanding on our project and making a functional product. This project has been a learning experience for all the members of our group, and our goal is to add additional features to our stable diffusion model after fine-tuning it. Future improvements aside can be done to implement features that can produce several images per second of the song lyrics and play it out as a sequence on video—similar to a natural music video. The idea is that each subsequent image is a slight change from the previous so that it appears to be a single video playing in linear time.
+
 
 
 ## **7. References**
